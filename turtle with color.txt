@@ -1,0 +1,12 @@
+import turtle
+pointer=turtle.Turtle()
+
+pointer.color("red")
+
+pointer.forward(40)
+pointer.penup()
+pointer.forward(20)
+pointer.pendown()
+pointer.forward(40)
+
+turtle.done()

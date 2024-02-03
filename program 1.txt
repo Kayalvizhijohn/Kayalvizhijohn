@@ -1,0 +1,11 @@
+print("my name kayal")
+print("2+3")
+print(2+3)
+print("@#$%........")
+print(9-6)
+score=35
+print(score)
+hero=100
+print(hero)
+aliens=[80,20,40,30,10]
+print(aliens[2])

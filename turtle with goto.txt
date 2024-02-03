@@ -1,0 +1,13 @@
+import turtle
+pointer=turtle.Turtle()
+
+pointer.color("red")
+pointer.fillcolor("red")
+pointer.begin_fill()
+pointer.goto(100,100)
+pointer.goto(-100,100)
+pointer.goto(-100,-100)
+pointer.goto(100,-100)
+pointer.goto(100,100)
+pointer.end_fll()
+turtle.done()

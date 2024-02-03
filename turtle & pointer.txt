@@ -1,0 +1,10 @@
+import turtle
+pointer=turtle.Turtle()
+
+pointer.color("red")
+
+for i in range(6):
+    pointer.forward(50)
+    pointer.left(60)
+
+turtle.done()
